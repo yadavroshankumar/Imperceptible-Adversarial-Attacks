@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# Environments
+.env
+.venv
+
+# Data and results (do not commit large datasets or results)
+/data/
+*.h5
+/results/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
